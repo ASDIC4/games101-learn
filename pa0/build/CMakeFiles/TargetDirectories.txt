@@ -1,0 +1,3 @@
+C:/Projects/games101-learn/pa0/build/CMakeFiles/Transformation.dir
+C:/Projects/games101-learn/pa0/build/CMakeFiles/edit_cache.dir
+C:/Projects/games101-learn/pa0/build/CMakeFiles/rebuild_cache.dir
